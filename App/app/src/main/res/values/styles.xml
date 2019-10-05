@@ -10,27 +10,27 @@
 
 
     <style name="textSmallGray">
-        <item name="android:textSize">16px</item>
+        <item name="android:textSize">16sp</item>
         <item name="android:textColor">@color/smallText</item>
     </style>
 
     <style name="textTinyGray" parent="textSmallGray">
-        <item name="android:textSize">12px</item>
+        <item name="android:textSize">12sp</item>
     </style>
 
     <style name="textSmallDarkGray">
-        <item name="android:textSize">16px</item>
+        <item name="android:textSize">16sp</item>
         <item name="android:textColor">@color/mediumText</item>
     </style>
 
     <style name="textBigWhite">
-        <item name="android:textSize">25px</item>
+        <item name="android:textSize">25dp</item>
         <item name="android:textColor">@android:color/white</item>
     </style>
 
 
     <style name="textTinyWhite">
-        <item name="android:textSize">12px</item>
+        <item name="android:textSize">12sp</item>
         <item name="android:textColor">@android:color/white</item>
     </style>
 
